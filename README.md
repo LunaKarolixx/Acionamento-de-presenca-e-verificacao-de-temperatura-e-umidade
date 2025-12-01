@@ -60,5 +60,6 @@ A lógica de alerta é implementada principalmente em nós function no Node-RED 
 * **Condição:** Umidade **$> 50\%$**.
 * **Ação:** o velocímetro exibido no dashboard fica verde.
 
+---
 
-Projeto desenvolvido por Luana Karoline e Emilly Félix.
+(Projeto desenvolvido por Luana Karoline e Emilly Félix.)
