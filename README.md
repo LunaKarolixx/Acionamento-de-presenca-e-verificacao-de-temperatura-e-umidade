@@ -2,6 +2,9 @@
 
 Este projeto, desenvolvido para matéria Plataforma de Hardware em IoT do curso de Tecnologia da Informação, estabelece um sistema de monitoramento ambiental básico e eficaz. Utilizamos o microcontrolador ESP32 para coletar dados de **presença**, **temperatura** e **umidade**, e a arquitetura **MQTT** para comunicação e a plataforma **Node-RED** para processamento de lógica de alarme e visualização em Dashboard.
 
+![WhatsApp Image 2025-12-01 at 20 26 30](https://github.com/user-attachments/assets/58a9d20a-92de-43be-8ec5-0dd3364a4750)
+![WhatsApp Image 2025-12-01 at 20 26 26](https://github.com/user-attachments/assets/f68d283d-0a80-4f7a-9c30-c22aeb60570d)
+
 ---
 
 ## Arquitetura do Projeto
